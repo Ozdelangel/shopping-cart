@@ -1,4 +1,5 @@
 *{
+
     
     box-sizing: border-box;
 }
@@ -51,19 +52,31 @@ fieldset{
     font-weight: bold;
     padding:0.5rem;
 }
-table{
+
     
+
+
+header h1{
+    font-size:25px;
+    text-align: center;
+    background-color:lightgray;
+    width: 100%;
+}
+
+
+
+table{
+
     border: 1px solid black ;
     margin: 10px;
     background-color: whitesmoke;
     font-family: Arial, Helvetica, sans-serif;
-    
-
 }
 td{
     padding: 15px;
     border: 1px solid black ;
     text-align: center;
+
     
 }
 footer{
@@ -75,4 +88,5 @@ footer{
 }
 footer p{
     padding:2rem;
+
 }
